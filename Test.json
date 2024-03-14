@@ -33,22 +33,6 @@
             "tintColor":"746344",
             "cachePath":"Hertz",
             "size":3700305
-        },
-        {
-            "appid":3,
-            "name":"螃蟹破解版",
-            "bundleIdentifier":"com.asd31asd.asada",
-            "developerName":"HzTeam",
-            "subtitle":"和平 Ping 工具",
-            "version":"1.1.9",
-            "versionDate":"2023-05-06T17:00:00-05:00",
-            "versionDescription":"更新卡验证 。。",
-            "downloadURL":"https://osultra.oss-cn-hongkong.aliyuncs.com/uPic/螃蟹破解版.tipa",
-            "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
-            "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
-            "tintColor":"746344",
-            "cachePath":"Hertz",
-            "size":22493276
         }
     ],
     "news":[
