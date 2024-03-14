@@ -1,0 +1,68 @@
+{
+    "name":"Hz APP List",
+    "identifier":"dev.hzlist.allapp",
+    "results":[
+        {
+            "appid":1,
+            "name":"王者赫兹",
+            "bundleIdentifier":"com.sa8.metal",
+            "developerName":"HzTeam",
+            "subtitle":"王者小工具",
+            "version":"1.1.0",
+            "versionDate":"2023-05-06T17:00:00-05:00",
+            "versionDescription":"更新卡验证 。。",
+            "downloadURL":"https://osultra.oss-cn-hongkong.aliyuncs.com/uPic/S34免费视距-新增功能.tipa",
+            "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
+            "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+            "tintColor":"746344",
+            "size":8113641,
+            "cachePath":"Hertz"
+        },
+        {
+            "appid":2,
+            "name":"和平赫兹",
+            "bundleIdentifier":"com.tigisoftware.metal",
+            "developerName":"HzTeam",
+            "subtitle":"和平 Ping 工具",
+            "version":"1.1.3",
+            "versionDate":"2023-05-06T17:00:00-05:00",
+            "versionDescription":"更新卡验证 。。",
+            "downloadURL":"https://osultra.oss-cn-hongkong.aliyuncs.com/uPic/TrollH.tipa",
+            "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
+            "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+            "tintColor":"746344",
+            "size":3700305,
+            "cachePath":"Hertz"
+        },
+        {
+            "appid":3,
+            "name":"螃蟹破解版",
+            "bundleIdentifier":"com.asd31asd.asada",
+            "developerName":"HzTeam",
+            "subtitle":"和平 Ping 工具",
+            "version":"1.1.9",
+            "versionDate":"2023-05-06T17:00:00-05:00",
+            "versionDescription":"更新卡验证 。。",
+            "downloadURL":"https://osultra.oss-cn-hongkong.aliyuncs.com/uPic/螃蟹破解版.tipa",
+            "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
+            "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+            "tintColor":"746344",
+            "size":22493276,
+            "cachePath":"Hertz"
+        },
+    ],
+    "news":[
+        {
+            "newid":1,
+            "title":"赫兹公告返回测试1\n测试",
+            "identifier":"dev.crystall1ne.appnews.PojavLauncher",
+            "caption":"The next release of PojavLauncher is out now - get it now!",
+            "tintColor":"746344",
+            "imageURL":"https://alt.crystall1ne.dev/Pojav-Logo.png",
+            "appID":"net.kdt.pojavlauncher",
+            "date":"2023-05-06",
+            "notify":true,
+            "cachePath":"Hertz",
+        }
+    ]
+}
