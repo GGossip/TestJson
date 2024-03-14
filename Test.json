@@ -54,7 +54,7 @@
     "news":[
         {
             "newid":1,
-            "title":"赫兹公告返回测试1\n测试",
+            "title":"赫兹公告返回测试1测试",
             "identifier":"dev.crystall1ne.appnews.PojavLauncher",
             "caption":"The next release of PojavLauncher is out now - get it now!",
             "tintColor":"746344",
