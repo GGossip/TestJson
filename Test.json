@@ -15,8 +15,8 @@
             "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
             "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
             "tintColor":"746344",
-            "size":8113641,
-            "cachePath":"Hertz"
+            "cachePath":"Hertz",
+            "size":8113641
         },
         {
             "appid":2,
@@ -31,8 +31,8 @@
             "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
             "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
             "tintColor":"746344",
-            "size":3700305,
-            "cachePath":"Hertz"
+            "cachePath":"Hertz",
+            "size":3700305
         },
         {
             "appid":3,
@@ -47,8 +47,8 @@
             "localizedDescription":"仅用于学习交流,请在 24 小时内自行删除!",
             "iconURL":"https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
             "tintColor":"746344",
-            "size":22493276,
-            "cachePath":"Hertz"
+            "cachePath":"Hertz",
+            "size":22493276
         }
     ],
     "news":[
